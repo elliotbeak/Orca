@@ -1,0 +1,22 @@
+body {
+    background: #FFCC00;
+    font-family: 'Bungee Spice', sans-serif;
+}
+h1 {
+    color: purple;
+    background: yellow;
+    float:right;
+}
+img { 
+max-width: 50%;
+}
+li {
+    font-weight: bold;
+    color: red;
+    font-size: 2em;
+}
+.list {
+    font-family: Crepitus;
+}
+
+@media only screen and (max-width: 600px)
